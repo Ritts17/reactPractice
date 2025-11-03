@@ -1,0 +1,26 @@
+.allBookContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.innerDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.innerDiv button {
+    background-color: rgb(76, 141, 76);
+    color: white;
+    border: none;
+    padding: 15px;
+    transition: transform 0.2s;
+}
+
+.innerDiv button:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}

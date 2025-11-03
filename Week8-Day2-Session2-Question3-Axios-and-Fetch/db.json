@@ -1,0 +1,39 @@
+{
+  "trainSchedules": [
+    {
+      "id": 1,
+      "trainName": "Express 101",
+      "departureTime": "08:00",
+      "arrivalTime": "12:00",
+      "availableSeats": 120
+    },
+    {
+      "id": 2,
+      "trainName": "Express 202",
+      "departureTime": "14:00",
+      "arrivalTime": "18:00",
+      "availableSeats": 80
+    },
+    {
+      "id": 3,
+      "trainName": "Superfast 100000",
+      "departureTime": "08:30",
+      "arrivalTime": "11:34",
+      "availableSeats": "1000"
+    },
+    {
+      "id": 4,
+      "trainName": "Intercity 404",
+      "departureTime": "16:00",
+      "arrivalTime": "20:00",
+      "availableSeats": 95
+    },
+    {
+      "id": 5,
+      "trainName": "Night Express 505",
+      "departureTime": "22:00",
+      "arrivalTime": "05:30",
+      "availableSeats": 200
+    }
+  ]
+}

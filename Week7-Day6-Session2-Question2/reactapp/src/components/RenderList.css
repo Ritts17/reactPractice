@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.innerDiv {
+    background-color: white;
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.innerDiv:hover{
+    background-color: #f4f4f4;
+}
+
+.ulContainer {
+    /* width: 60vw; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.inputField {
+    width: 50vw;
+    padding: 10px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+}
+

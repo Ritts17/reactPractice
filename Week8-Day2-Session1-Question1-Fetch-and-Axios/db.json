@@ -1,0 +1,100 @@
+{
+  "crops": [
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 1
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 2
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 3
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 4
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 5
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 6
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 7
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 8
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 9
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 10
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 11
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 12
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 13
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 14
+    },
+    {
+      "name": "Corn",
+      "season": "Summer",
+      "quantity": "150",
+      "id": 15
+    },
+    {
+      "name": "Barley",
+      "season": "Winter",
+      "quantity": "80",
+      "id": 16
+    }
+  ]
+}

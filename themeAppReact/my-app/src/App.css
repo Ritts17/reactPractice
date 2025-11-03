@@ -1,0 +1,64 @@
+/* Simple CSS for beginners */
+
+.App {
+  text-align: center;
+  background-color: white;
+  color: black;
+  height: 100vh;
+  padding: 20px;
+}
+
+.App-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.App-logo:hover {
+  transform: rotate(360deg);
+  transition: 2s;
+}
+
+.App-header {
+  background-color: lightblue;
+  padding: 50px;
+  margin: 20px;
+}
+
+.App-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  color: red;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+/* Dark theme */
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+.dark-theme .App-header {
+  background-color: gray;
+}
+
+.dark-theme button {
+  background-color: purple;
+}
+
+.dark-theme button:hover {
+  background-color: darkpurple;
+}

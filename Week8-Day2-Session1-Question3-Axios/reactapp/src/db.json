@@ -1,0 +1,37 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "teamA": "India",
+      "teamB": "Australia",
+      "score": "120/2",
+      "overs": 15
+    },
+    {
+      "id": 2,
+      "teamA": "England",
+      "teamB": "Pakistan",
+      "score": "110/4",
+      "overs": 14
+    },
+    {
+      "score": "150/45",
+      "overs": 18,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "teamA": "West Indies",
+      "teamB": "Afghanistan",
+      "score": "110/4",
+      "overs": 14
+    },
+    {
+      "id": 5,
+      "teamA": "West Indies",
+      "teamB": "Afghanistan",
+      "score": "110/4",
+      "overs": 14
+    }
+  ]
+}

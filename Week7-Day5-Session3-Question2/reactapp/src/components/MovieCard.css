@@ -1,0 +1,28 @@
+.movieCard {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width : 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.movieCard:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.movieImage {
+    width : 300px;
+    height : 350px;
+    transition: transform 0.3s;
+}
+
+.movieImage:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}

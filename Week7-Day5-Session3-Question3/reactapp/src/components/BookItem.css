@@ -1,0 +1,13 @@
+.bookCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+
+.bookCard:hover{
+    transform: scale(1.05);
+}
